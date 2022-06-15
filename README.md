@@ -1,1 +1,5 @@
-# go-project-docs
+# docs
+
+一个神奇的文档
+
+文档，很神奇吧
