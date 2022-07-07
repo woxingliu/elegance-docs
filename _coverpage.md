@@ -7,7 +7,7 @@
 - 简单、优雅
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[开始](#docs)
+[开始](#优雅的文档)
 
 <!-- 背景图片 -->
 
