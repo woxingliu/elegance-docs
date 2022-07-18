@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](../_media/icon.svg)
 
 # Docs <small>1.0</small>
 
@@ -7,7 +7,7 @@
 - 简单、优雅
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[开始](zh-cn/?id=开始)
+[开始](#开始)
 
 <!-- 背景图片 -->
 
