@@ -1,3 +1,3 @@
 * [开始](zh-cn/)
-* [一言](zh-cn/hitokoto)
-* [联系](zh-cn/contact)
+* [API](zh-cn/hitokoto)
+<!-- * [隐私声明](zh-cn/privacystatement) -->

@@ -6,7 +6,7 @@
 
 - 简单、优雅
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+<!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 [开始](#开始)
 
 <!-- 背景图片 -->

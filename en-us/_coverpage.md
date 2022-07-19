@@ -6,7 +6,7 @@
 
 - Simple, Elegance
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+<!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 [Get Started](#docs)
 
 <!-- 背景图片 -->
