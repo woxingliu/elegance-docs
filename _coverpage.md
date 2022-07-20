@@ -1,12 +1,12 @@
 ![logo](_media/icon.svg)
 
-# Docs <small>1.0</small>
+# 文档 <small>1.0</small>
 
 > 一个神奇的文档
 
 - 简单、优雅
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+<!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 [开始](zh-cn/?id=开始)
 
 <!-- 背景图片 -->

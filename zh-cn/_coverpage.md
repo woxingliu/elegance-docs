@@ -1,6 +1,6 @@
 ![logo](../_media/icon.svg)
 
-# Docs <small>1.0</small>
+# 文档 <small>1.0</small>
 
 > 一个神奇的文档
 
